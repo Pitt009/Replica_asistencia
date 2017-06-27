@@ -14,13 +14,15 @@ header{
 #menu{
 	color: $text-white;
 	ul{
-	list-style: none
+	list-style: none;
+	display: inline-block;
 
 	}
 	   li{
 	   	 background-color: $labGray;
-	   	 padding: 1%;
-			 margin: 1%;
+	   	 padding: 5%;
+		 margin: 1%;
+
 		}
 
 	.fondo_amarillo{
